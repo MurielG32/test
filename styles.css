@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#header{
+    width: 970px;
+    height: 170px;
+}
+#globo{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+#net{
+    text-decoration: none;
+    color: skyblue;
+    font-size: 60px;
+    display: inline-block;
+}
+#inter{
+    font-size: 60px;
+    display: inline-block;
+}
+#titulo{
+    font-size: 50px;
+    background-color: cornflowerblue;
+    color: white;
+}
+#barra{
+    width: 200px;
+    height: 750px;
+    padding: 5px;
+    display: inline-block;
+}
+
+#so{
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+}
+#int{
+    font-size: 20px;
+    color: red;
+    display: inline-block;
+}
+#blue{
+    color:blue;
+    display: inline-block;
+}
+p{
+    display: inline-block;
+}
+#video{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    color:white;
+}
+#more{
+    background-color: orange;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    color:white;
+    text-align: center;
+}
+#linea{
+    border-top :  solid black;
+    margin: 10px;
+    border-width: 1px;
+}
+#barrafondo{
+    background: url(fond.png);
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+}
+#tit{
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+    text-align: center;
+}
+#ninja{
+    width: 80px;
+    margin-left: 55px;   
+}
+#learn{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    color:white;   
+}
+#contenido{
+    width: 742px;
+    height: 750px;
+    padding: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+#home{
+    width: 20px;   
+}
+#dns{
+    color: cornflowerblue;
+    display: inline-block;   
+}
+#numeros{
+    width: 220px;
+    height: 70px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 450px;
+}
+#phone{
+    width: 30px;
+    vertical-align: top;
+}
+#fecha{
+    font-size: 15px;
+    display: flex;
+}
+#numero{
+    font-size: 25px;
+    color: deepskyblue;
+    display: inline-block;
+}
+#contenido ul{
+    margin: 10px;
+    padding-left: 60px;
+}
+#client{
+    width: 300px;
+    margin-left: 180px;
+}
+#contenido ol{
+    margin: 10px;
+    padding-left: 60px;
+}
+h2{
+    color: dodgerblue;
+}
+#caja{
+    width: 665px;
+    height: 110px;
+    margin-left: 40px;
+    padding: 10px;
+    border-top: solid blue ;
+    border-left: solid blue;
+    border-right: solid blue;
+    border-width: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+#html{
+    width: 130px;
+}
+#titulo2{
+    color: dodgerblue;
+    vertical-align: top;
+     
+}
+#textcaja{
+    width: 525px;
+    height: 130px;
+    display: inline-block;
+    vertical-align: top;
+} 
